@@ -1,0 +1,27 @@
+{
+  "name": "t-sm-con",
+  "version": "1.0.0",
+  "description": "test smart contract",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vadimstruts/t-sm-con.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vadimstruts/t-sm-con/issues"
+  },
+  "homepage": "https://github.com/vadimstruts/t-sm-con#readme",
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.2.2",
+    "ethers": "^5.7.2",
+    "hardhat": "^2.12.7"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.3"
+  }
+}
